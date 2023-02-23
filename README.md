@@ -1,4 +1,4 @@
-## Mi-portafolio-DC :last_quarter_moon:
+## Mi-portafolio-Data Scientist :last_quarter_moon:
 Portafolio de proyectos relacionados con mi formación como científico de datos.
 
 ## Autor :bulb:
